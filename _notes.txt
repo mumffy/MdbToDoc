@@ -1,0 +1,6 @@
+## MDB to Docx PhoneLog
+[ ] create Model for Person and adopt in exiting logic
+[ ] begin matching the template's styling in the output file
+
+## Flask R&D
+[ ] expose Model via simple View
